@@ -1,5 +1,3 @@
-
-# (c) @RoyalKrrishna
 from TeamTeleRoid.database import db
 from configs import Config
 from pyrogram import Client, filters
