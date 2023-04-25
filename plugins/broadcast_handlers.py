@@ -1,4 +1,3 @@
-# (c) @RoyalKrrishna
 import time
 import string
 import random
