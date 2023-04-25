@@ -1,5 +1,3 @@
-# (c) @Royalkrrishna
-
 import datetime
 from configs import Config
 import pymongo
